@@ -15,5 +15,5 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: sanjaysaini2000/react-app:latest
+      - image: ammad205/argo:latest
         name: nginx
