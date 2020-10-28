@@ -17,5 +17,3 @@ spec:
       containers:
       - image: ammad205/argo:1.0
         name: argo
-        ports:
-        - containerPort: 8090
