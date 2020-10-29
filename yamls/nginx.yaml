@@ -15,5 +15,5 @@ spec:
         app: argo
     spec:
       containers:
-      - image: ammad205/argo:1.0
+      - image: ammad205/argo:1.1
         name: argo
