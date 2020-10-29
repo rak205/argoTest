@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: argo
-  name: argo-deployment
+  name: react-deployment
 spec:
   replicas: 1
   selector:
